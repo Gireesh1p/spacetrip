@@ -1,1 +1,1 @@
-# spacetrip
+# COE-S25-26-boilerplate
